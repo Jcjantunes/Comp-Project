@@ -1,2 +1,2 @@
 # Comp-Project
-Compilers (Comp) Course Project - IST - 2019/2020
+Compilers (Comp) Course Project - IST - 2018/2019
